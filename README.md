@@ -14,7 +14,7 @@ A simple and interactive **Task Manager** web application built with **HTML**, *
 
 ## Demo
 Task_manager_web_app.JPG
-![Task Manager App Screenshot](images/Task_manager_web_app.JPG)
+![Task Manager App Screenshot](Task_manager_web_app.JPG)
 
 ![Task Manager Demo](assets/task-manager-demo.gif)
 
