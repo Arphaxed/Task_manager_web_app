@@ -13,6 +13,8 @@ A simple and interactive **Task Manager** web application built with **HTML**, *
 - **Responsive Design**: The app is designed to be fully responsive and works on both desktop and mobile devices.
 
 ## Demo
+Task_manager_web_app.JPG
+![Task Manager App Screenshot](images/Task_manager_web_app.JPG)
 
 ![Task Manager Demo](assets/task-manager-demo.gif)
 
